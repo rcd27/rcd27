@@ -55,15 +55,11 @@
 * Focus on maintainable and scalable architecture
 * Emphasis on type safety and compile-time guarantees
 
-## 📦 Notable Projects
-
-* [wildberries-finances-mcp-server](https://github.com/rcd27/wildberries-finances-mcp-server) - MCP сервер для работы с API Wildberries Finances
-* [learning-rxjava-ru](https://github.com/rcd27/learning-rxjava-ru) - Конспект-перевод книги "Learning RxJava" на русский язык
-
 ## 📫 Let's Connect
 
 * 🐙 **GitHub**: [github.com/rcd27](https://github.com/rcd27)
 * 🤝 **LinkedIn**: [linkedin.com/in/stanislav-zemlyakov](https://www.linkedin.com/in/stanislav-zemlyakov/)
+* **Telegram**: [rcd27](t.me/rcd27)
 
 ---
 
