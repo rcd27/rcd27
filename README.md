@@ -59,7 +59,7 @@
 
 * 🐙 **GitHub**: [github.com/rcd27](https://github.com/rcd27)
 * 🤝 **LinkedIn**: [linkedin.com/in/stanislav-zemlyakov](https://www.linkedin.com/in/stanislav-zemlyakov/)
-* **Telegram**: [rcd27](t.me/rcd27)
+* **Telegram**: [rcd27](https://www.t.me/rcd27)
 
 ---
 
