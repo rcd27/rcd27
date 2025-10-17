@@ -42,7 +42,7 @@
 
 ## 🚀 Current Focus
 
-* AIAgents(koog,langchain)
+* AI Agents (koog,langchain)
 * MCP (Model Context Protocol) development and integration
 * Modern web development with TypeScript and React
 * Functional programming and DDD practices
